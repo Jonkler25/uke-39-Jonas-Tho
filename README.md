@@ -17,8 +17,12 @@ https://dillinger.io/
 https://www.markdownguide.org/cheat-sheet/
 
 ## Mine refleksjoner
-* Jeg føler at jeg ikke har lært så mye om Git og Github 
+* Jeg føler at jeg ikke har lært så mye om Git og Github.
 
-* Jeg syntes det er helt greit å bruke versjonkontroll, jeg føler jeg er fortsatt veldig ny i dette og forstår ikke mye av det ennå
+* Jeg syntes det er helt greit å bruke versjonkontroll, jeg føler jeg er fortsatt veldig ny i dette og forstår ikke mye av det ennå.
 
-* 
+* Jeg har lært hvordan man lager overskfiter, punkter, fet skrift og kursiv. 
+
+* Markdown kan brukes til å skrive om ulike ting som dokumentasjon, det er fordi det er en veldig ryddig måte å dokumentere. 
+
+* Det som var mest utfordrene var i starten når vi skulle finne ut helt i starten hva vi skulle gjøre og komme i gang.
