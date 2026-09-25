@@ -16,3 +16,26 @@
 *FC27 blir også kalt kjedelig for å ha et gjentakende spill med lite oppdateringer*
 
 ![FC27-bilde](Fc27.webp)
+
+<html>
+<body>
+
+<h1>FC27 Quiz</h1>
+
+<p>Liker du fotball?</p>
+
+<button onclick="ja()">Ja</button>
+<button onclick="nei()">Nei</button>
+
+<p id="svar"></p>
+
+<script>
+function ja() {
+  document.getElementById("svar").innerHTML =
+  "Kult! Har du prøvd FC27?";
+}
+
+function nei() {
+  document.getElementById("svar").innerHTML =
+  "Da bør du prøve FC27!";
+}
