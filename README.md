@@ -26,3 +26,9 @@ https://www.markdownguide.org/cheat-sheet/
 * Markdown kan brukes til å skrive om ulike ting som dokumentasjon, det er fordi det er en veldig ryddig måte å dokumentere. 
 
 * Det som var mest utfordrene var i starten når vi skulle finne ut helt i starten hva vi skulle gjøre og komme i gang.
+
+# Prosessen etter markdown
+
+* Jeg så på noen videor og gikk på noen tutorials om koding og java script. Jeg kobla sammen java script og html. Jeg prøvde å kode en nettside men slet med det.
+
+* Dette var et prosjekt jeg slet med fordi jeg selv følte det var mye man skulle gjøre og masse jeg ikke visste om vi ble kastet ut i. Men jeg har lært at jeg må spørre litt mer om hjelp og jobbe litt hjemme. 
